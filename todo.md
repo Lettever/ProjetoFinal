@@ -1,0 +1,3 @@
+- Ver o que o projeto tem que fazer
+- Pensar na base de dados
+- Implementar
