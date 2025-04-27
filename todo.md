@@ -1,3 +1,4 @@
 - [ ] Ver o que o projeto tem que fazer
+  - sistema para gestão diaria de frota de autocarros de acordo com o scan de passes de dias anteriores, condutores disponíveis, autocarros disponíveis, manutenção 
 - [ ] Pensar na base de dados
 - [ ] Implementar
